@@ -12,7 +12,7 @@ I have created 3D & 2D bin packing algorithms for many of my clients as a faster
 My algorithm proposes a new method to solving the famous problem.
 
 
-These are links for a tutorial and i provided snippets of my code here, in an effort to pass through what i know and help as i can easily say that if the opensource community didn't exist, i wouldn't have learned a lot.
+These are links for a tutorial and i provided snippets of my code here, in an effort to pass through what i have learned and help as i can easily say that if the opensource community didn't exist, i wouldn't have learned a lot.
 
 More is yet to come
 
